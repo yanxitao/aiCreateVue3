@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Build artifacts
+/dist/
+/build/
+/.cache/
+
+# Other
+.DS_Store
+Thumbs.db
